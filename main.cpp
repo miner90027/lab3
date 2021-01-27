@@ -13,11 +13,12 @@ using std::string;
 using std::vector;
 
 //begin Lab 2 functions
+/*
 void pasByVal(Monster foo){
 	cout << "begin pasByVal function\n";
 	cout<< "the Monster is a "<< foo.getSpecies()<<endl;
 	foo.setSpecies("Human");
-	cout<< "changed foo to" << foo.getSpecies()<<endl;
+	cout<< "changed foo to " << foo.getSpecies()<<endl;
 	cout<<"end of pasByVal function\n";
 }
 void pasByRef(Monster &faa){
@@ -38,10 +39,12 @@ Monster retrnByVal(){
 	cout<<"end of retrnByVal function\n";
 	return biz;
 }
+ */
 //end Lab 2 functions
 
 int main() {
 	//begin lab 2 stuff
+	/*
 	cout<<"create local variable of object\n";
 	Monster deflt;
 
@@ -66,6 +69,8 @@ int main() {
 
 	cout<<"create a vector of 5 objects\n";
 	vector<Monster> vec(5);
-
+	*/
 	//end Lab 2 stuff
+	//Begin Lab 3 stuff
+
 }
